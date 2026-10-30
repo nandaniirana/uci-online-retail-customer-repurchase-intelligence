@@ -9,7 +9,6 @@ import streamlit as st
 # Configure the dashboard
 st.set_page_config(
     page_title="UCI Online Retail | Customer Intelligence",
-    page_icon="📊",
     layout="wide"
 )
 
