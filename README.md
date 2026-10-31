@@ -389,6 +389,14 @@ streamlit run app/app.py
 
 The required CSV and model files must be placed beside `app.py`, as expected by the current code. The command and paths should be verified against the final repository before publication.
 
+## Interactive Streamlit Dashboard
+
+The project is deployed as an interactive Streamlit application, bringing together the analytical findings and predictive outputs in a single interface.
+
+**Live Application:** [UCI Online Retail — Customer Repurchase Intelligence](https://retailsaleonline.streamlit.app/)
+
+The dashboard is organized into four key modules:
+
 ## 9. Limitations and Future Improvements
 
 ### Current limitations
